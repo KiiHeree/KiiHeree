@@ -8,7 +8,7 @@
 Hi, I’m **Rochmat Hidayah Rizki**, a passionate **Junior Full Stack Developer**.  
 Currently deep-diving into **React** for modern web development and **Flutter** for cross-platform mobile apps 🚀
 
-- 🔧 Working mainly with **Laravel**, **Tailwind CSS**, and **MySQL**
+- 🔧 Working mainly with **Laravel**
 - 🧠 Always learning something new in tech, especially frontend frameworks and mobile dev
 - 🌱 Exploring **clean architecture**, **component-based design**, and **API integrations**
 - 💬 Love discussing code, building side-projects, and solving real-world problems
