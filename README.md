@@ -1,10 +1,11 @@
 ###
 <h1 align="center">Hi there 👋, I'm Rochmat Hidayah Rizki</h1>
 <h3 align="center">🚀 Junior Full Stack Developer</h3>
+<br>
 ## 
 👋 About Me
 
-Hi, I’m **Rochmat Hidayah Rizki**, a passionate **Junior Full Stack Developer** from Indonesia.  
+Hi, I’m **Rochmat Hidayah Rizki**, a passionate **Junior Full Stack Developer**.  
 Currently deep-diving into **React** for modern web development and **Flutter** for cross-platform mobile apps 🚀
 
 - 🔧 Working mainly with **Laravel**, **Tailwind CSS**, and **MySQL**
