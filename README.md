@@ -1,8 +1,20 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hello World!!!</h1>
 
 ###
 
 <p align="left"># Yo! I'm Rochmat Hidayah Rizki ⚡<br><br>🚀 Junior Full Stack Dev  <br>🛠️ Code wizard in Laravel land  <br>💻 Frontend? Backend? Why not both 😎  <br>🌱 Forever learning, forever shipping  <br>🍜 Surviving on code & mie instan<br><br>> "Write code. Sleep. Debug. Repeat."</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 ###
 
