@@ -1,16 +1,20 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ###
+<h1 align="center">Hi there 👋, I'm Rochmat Hidayah Rizki</h1>
+<h3 align="center">🚀 Junior Full Stack Developer</h3>
+## 
+👋 About Me
 
-<h1 align="center">Hello World!!!</h1>
+Hi, I’m **Rochmat Hidayah Rizki**, a passionate **Junior Full Stack Developer** from Indonesia.  
+Currently deep-diving into **React** for modern web development and **Flutter** for cross-platform mobile apps 🚀
 
-###
+- 🔧 Working mainly with **Laravel**, **Tailwind CSS**, and **MySQL**
+- 🧠 Always learning something new in tech, especially frontend frameworks and mobile dev
+- 🌱 Exploring **clean architecture**, **component-based design**, and **API integrations**
+- 💬 Love discussing code, building side-projects, and solving real-world problems
+- 🧩 My current goal: build scalable apps with great UI/UX both on web and mobile
 
-<p align="left"># Yo! I'm Rochmat Hidayah Rizki ⚡<br><br>🚀 Junior Full Stack Dev  <br>🛠️ Code wizard in Laravel land  <br>💻 Frontend? Backend? Why not both 😎  <br>🌱 Forever learning, forever shipping  <br>🍜 Surviving on code & mie instan<br><br>> "Write code. Sleep. Debug. Repeat."</p>
+✨ _“Keep shipping. Keep learning. Keep dreaming.”_
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
