@@ -30,8 +30,6 @@ Currently deep-diving into **React** for modern web development and **Flutter** 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
