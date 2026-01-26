@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hi there 👋, I'm Rochmat Hidayah Rizki</h1>
-<h3 align="center">🚀 Junior Full Stack Developer</h3>
+<h3 align="center">🚀 Junior Backend Developer</h3>
 <br>
 ## 
 👋 About Me
